@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1677724041/LD_LIBRARY_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1677724041/LD_LIBRARY_PATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1677724041/LD_LIBRARY_PATH/value=$LD_LIBRARY_PATH\:/home/pankaj/3rdParty/coding/fcgi-2.4.1/lib
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1677724041/append=true
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1677724041/appendContributed=true
